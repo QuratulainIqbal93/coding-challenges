@@ -1,0 +1,6 @@
+c:\users\qurat\documents\visual studio 2015\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.exe.config
+c:\users\qurat\documents\visual studio 2015\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.exe
+c:\users\qurat\documents\visual studio 2015\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+c:\users\qurat\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.exe
+c:\users\qurat\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
+c:\users\qurat\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.csprojResolveAssemblyReference.cache
