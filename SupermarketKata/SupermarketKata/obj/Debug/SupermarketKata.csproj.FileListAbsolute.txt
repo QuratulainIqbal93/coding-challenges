@@ -1,0 +1,6 @@
+c:\users\qurat\documents\visual studio 2015\Projects\SupermarketKata\SupermarketKata\bin\Debug\SupermarketKata.exe.config
+c:\users\qurat\documents\visual studio 2015\Projects\SupermarketKata\SupermarketKata\bin\Debug\SupermarketKata.exe
+c:\users\qurat\documents\visual studio 2015\Projects\SupermarketKata\SupermarketKata\bin\Debug\SupermarketKata.pdb
+c:\users\qurat\documents\visual studio 2015\Projects\SupermarketKata\SupermarketKata\obj\Debug\SupermarketKata.csprojResolveAssemblyReference.cache
+c:\users\qurat\documents\visual studio 2015\Projects\SupermarketKata\SupermarketKata\obj\Debug\SupermarketKata.exe
+c:\users\qurat\documents\visual studio 2015\Projects\SupermarketKata\SupermarketKata\obj\Debug\SupermarketKata.pdb
